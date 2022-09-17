@@ -1,0 +1,18 @@
+{
+  "name": "proh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Manavesh Narendra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "go-node-mongo": "0.0.4",
+    "joi": "^17.6.0",
+    "mongoose": "^6.6.1"
+  }
+}
